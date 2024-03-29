@@ -9,3 +9,4 @@ print(type(output))
 print("hello world")
 
 print("there was a bug in previous code which I just solved it")
+print("there was a bug in previous code which I just solved it")
